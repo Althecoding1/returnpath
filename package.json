@@ -1,0 +1,11 @@
+{
+  "name": "returnpathchallenge",
+  "version": "1.0.0",
+  "description": "Application challenge for Return Path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
